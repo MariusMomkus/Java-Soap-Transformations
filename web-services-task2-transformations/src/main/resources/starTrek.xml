@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- processing instructions-->
+<?xml-stylesheet href="blog.xsl" type="text/xsl"?>
+<starTrek>
+    <pages>
+        <page id="1">
+            <title>Star Trek</title>
+            <image>images/logo.jpg</image>
+            <category>Story</category>
+            <author id="1">
+                <username>Capt. Jean-Luc Picard</username>
+                <email>admin@site.com</email>
+                <joinedAt>2330-01-14T10:00:00.873+02:00</joinedAt>
+            </author>
+            <createdAt>2022-05-14</createdAt>
+            <summary>The franchise began with Star Trek: The Original Series, which debuted in the US on September 8, 1966 and aired for three seasons on NBC. It was first broadcast on September 6, 1966 on Canada's CTV network.[4] It followed the voyages of the starship USS Enterprise, a space exploration vessel built by the United Federation of Planets in the 23rd century, on a mission "to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before"....</summary>
+            <content>The franchise began with Star Trek: The Original Series, which debuted in the US on September 8, 1966 and aired for three seasons on NBC. It was first broadcast on September 6, 1966 on Canada's CTV network.[4] It followed the voyages of the starship USS Enterprise, a space exploration vessel built by the United Federation of Planets in the 23rd century, on a mission "to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before". In creating Star Trek, Roddenberry was inspired by C. S. Forester's Horatio Hornblower series of novels, Jonathan Swift's 1726 novel Gulliver's Travels, the 1956 film Forbidden Planet, and television westerns such as Wagon Train.</content>
+            <views>7000</views>
+            <ratings>
+                <rating>
+                    <user id="1">
+                        <username>Capt. Jean-Luc Picard</username>
+                        <email>J.Picard@Enterprise.com</email>
+                        <joinedAt>2330-01-17T12:00:00.873+02:00</joinedAt>
+                    </user>
+                    <isLiked>true</isLiked>
+                </rating>
+                <rating>
+                    <user id="2">
+                        <username>Cmdr. William Riker</username>
+                        <email>W.Riker@Enterprise.com</email>
+                        <joinedAt>2330-01-19T10:00:00.873+02:00</joinedAt>
+                    </user>
+                    <isLiked>true</isLiked>
+                </rating>
+                <rating>
+                    <user id="3">
+                        <username>Borg</username>
+                        <email>Borgs@resistanceIsFutile.com</email>
+                        <joinedAt>2022-05-15T09:00:00.874+02:00</joinedAt>
+                    </user>
+                    <isLiked>false</isLiked>
+                </rating>
+            </ratings>
+            <comments>
+                <comment id="1">
+                    <author id="1">
+                        <username>Capt. Jean-Luc Picard</username>
+                        <email>J.Picard@Enterprise.com</email>
+                        <joinedAt>2330-01-17T12:00:00.873+02:00</joinedAt>
+                    </author>
+                    <createdAt>2330-02-17T12:00:00.873+02:00</createdAt>
+                    <content>Every choice we make allows us to manipulate the future.</content>
+                </comment>
+                <comment id="2">
+                    <author id="2">
+                        <username>Cmdr. William Riker</username>
+                        <email>W.Riker@Enterprise.com</email>
+                        <joinedAt>2330-01-19T10:00:00.873+02:00</joinedAt>
+                    </author>
+                    <createdAt>2330-02-19T15:00:00.873+02:00</createdAt>
+                    <content>If you drop a hammer on your foot, it's hardly useful to get mad at the hammer.</content>
+                </comment>
+                <comment id="3">
+                    <author id="3">
+                        <username>Borg</username>
+                        <email>Borgs@resistenceIsFutile.com</email>
+                        <joinedAt>2022-03-23T14:11:00.873+02:00</joinedAt>
+                    </author>
+                    <createdAt>2022-03-23T14:11:00.873+02:00</createdAt>
+                    <content>Resistance Is Futile</content>
+                </comment>
+            </comments>
+            <tags>
+                <tag>tag1</tag>
+                <tag>tag2</tag>
+                <tag>tag3</tag>
+                <tag>tag4</tag>
+                <tag>tag5</tag>
+            </tags>
+        </page>
+        <page id="2">
+            <title>The Enterprise</title>
+            <image>images/image1.jpg</image>
+            <category>Space Ship</category>
+            <author id="1">
+                <username>admin</username>
+                <email>admin@site.com</email>
+                <joinedAt>2022-03-23T14:11:00.874+02:00</joinedAt>
+            </author>
+            <createdAt>2022-03-23</createdAt>
+            <summary>Enterprise or USS Enterprise (often referred to as the "Starship Enterprise") is the name of several fictional spacecraft, some of which are the main craft and setting for various television series and films in the Star Trek science fiction franchise.... </summary>
+            <content>Enterprise or USS Enterprise (often referred to as the "Starship Enterprise") is the name of several fictional spacecraft, some of which are the main craft and setting for various television series and films in the Star Trek science fiction franchise. The most notable were Captain James T. Kirk's USS Enterprise (NCC-1701) from the original 1960s television series, and Captain Jean-Luc Picard's USS Enterprise (NCC-1701-D) from Star Trek: The Next Generation.</content>
+            <views>9870</views>
+            <ratings>
+                <rating>
+                    <user id="1">
+                        <username>Capt. Jean-Luc Picard</username>
+                        <email>J.Picard@Enterprise.com</email>
+                        <joinedAt>2330-01-17T12:00:00.873+02:00</joinedAt>
+                    </user>
+                    <isLiked>true</isLiked>
+                </rating>
+                <rating>
+                    <user id="2">
+                        <username>Cmdr. William Riker</username>
+                        <email>W.Riker@Enterprise.com</email>
+                        <joinedAt>2330-01-19T10:00:00.873+02:00</joinedAt>
+                    </user>
+                    <isLiked>true</isLiked>
+                </rating>
+                <rating>
+                    <user id="3">
+                        <username>Borg</username>
+                        <email>Borgs@resistanceIsFutile.com</email>
+                        <joinedAt>2022-05-15T09:00:00.874+02:00</joinedAt>
+                    </user>
+                    <isLiked>false</isLiked>
+                </rating>
+            </ratings>
+            <comments>
+                <comment id="1">
+                    <author id="1">
+                        <username>Capt. Jean-Luc Picard</username>
+                        <email>J.Picard@Enterprise.com</email>
+                        <joinedAt>2330-01-17T12:00:00.873+02:00</joinedAt>
+                    </author>
+                    <createdAt>2330-02-17T12:00:00.873+02:00</createdAt>
+                    <content>It is possible to commit no mistakes and still lose. That is not weakness, that is life.</content>
+                </comment>
+                <comment id="2">
+                    <author id="2">
+                        <username>Cmdr. William Riker</username>
+                        <email>W.Riker@Enterprise.com</email>
+                        <joinedAt>2330-01-19T10:00:00.873+02:00</joinedAt>
+                    </author>
+                    <createdAt>2330-02-19T15:00:00.873+02:00</createdAt>
+                    <content>The more difficult the task, the sweeter the victory.</content>
+                </comment>
+                <comment id="3">
+                    <author id="3">
+                        <username>Borg</username>
+                        <email>Borgs@resistenceIsFutile.com</email>
+                        <joinedAt>2022-03-23T14:11:00.873+02:00</joinedAt>
+                    </author>
+                    <createdAt>2022-03-23T14:11:00.873+02:00</createdAt>
+                    <content>Resistance Is Futile</content>
+                </comment>
+            </comments>
+            <tags>
+                <tag>tag1</tag>
+                <tag>tag2</tag>
+                <tag>tag3</tag>
+                <tag>tag4</tag>
+                <tag>tag5</tag>
+            </tags>
+        </page>
+        <page id="3">
+            <title>Klingon Empire</title>
+            <image>images/image2.jpg</image>
+            <category>Klingons</category>
+            <author id="1">
+                <username>admin</username>
+                <email>admin@site.com</email>
+                <joinedAt>2022-03-23T14:11:00.874+02:00</joinedAt>
+            </author>
+            <createdAt>2022-03-23</createdAt>
+            <summary>The Klingon Empire was the official state of the Klingon people. It was founded in the 9th century by Kahless the Unforgettable, who first united the Klingon homeworld of Qo'noS....</summary>
+            <content>The Klingon Empire was the official state of the Klingon people. It was founded in the 9th century by Kahless the Unforgettable, who first united the Klingon homeworld of Qo'noS. Since then, the Klingon Empire expanded its sphere of influence by conquering numerous systems and incorporating them. This made the Empire a major power in its region of the galaxy as of the 22nd, 23rd, and 24th centuries.</content>
+            <views>5671</views>
+            <ratings>
+                <rating>
+                    <user id="1">
+                        <username>Capt. Jean-Luc Picard</username>
+                        <email>J.Picard@Enterprise.com</email>
+                        <joinedAt>2330-01-17T12:00:00.873+02:00</joinedAt>
+                    </user>
+                    <isLiked>true</isLiked>
+                </rating>
+                <rating>
+                    <user id="2">
+                        <username>Cmdr. William Riker</username>
+                        <email>W.Riker@Enterprise.com</email>
+                        <joinedAt>2330-01-19T10:00:00.873+02:00</joinedAt>
+                    </user>
+                    <isLiked>true</isLiked>
+                </rating>
+                <rating>
+                    <user id="3">
+                        <username>Borg</username>
+                        <email>Borgs@resistanceIsFutile.com</email>
+                        <joinedAt>2022-05-15T09:00:00.874+02:00</joinedAt>
+                    </user>
+                    <isLiked>false</isLiked>
+                </rating>
+            </ratings>
+            <comments>
+                <comment id="1">
+                    <author id="1">
+                        <username>Capt. Jean-Luc Picard</username>
+                        <email>J.Picard@Enterprise.com</email>
+                        <joinedAt>2330-01-17T12:00:00.873+02:00</joinedAt>
+                    </author>
+                    <createdAt>2330-02-17T12:00:00.873+02:00</createdAt>
+                    <content>The only person you’re truly competing against is yourself</content>
+                </comment>
+                <comment id="2">
+                    <author id="2">
+                        <username>Cmdr. William Riker</username>
+                        <email>W.Riker@Enterprise.com</email>
+                        <joinedAt>2330-01-19T10:00:00.873+02:00</joinedAt>
+                    </author>
+                    <createdAt>2330-02-19T15:00:00.873+02:00</createdAt>
+                    <content>Some days you get the bear, and some days the bear gets you.</content>
+                </comment>
+                <comment id="3">
+                    <author id="3">
+                        <username>Borg</username>
+                        <email>Borgs@resistenceIsFutile.com</email>
+                        <joinedAt>2022-03-23T14:11:00.873+02:00</joinedAt>
+                    </author>
+                    <createdAt>2022-03-23T14:11:00.873+02:00</createdAt>
+                    <content>Resistance Is Futile</content>
+                </comment>
+            </comments>
+            <tags>
+                <tag>tag1</tag>
+                <tag>tag2</tag>
+                <tag>tag3</tag>
+                <tag>tag4</tag>
+                <tag>tag5</tag>
+            </tags>
+        </page>
+    </pages>
+    <users>
+        <user id="1">
+            <username>admin</username>
+            <email>admin@site.com</email>
+            <joinedAt>2022-03-23T14:11:00.874+02:00</joinedAt>
+        </user>
+        <user id="2">
+            <username>user456</username>
+            <email>user456@gamil.com</email>
+            <joinedAt>2022-03-23T14:11:00.874+02:00</joinedAt>
+        </user>
+        <user id="3">
+            <username>user884</username>
+            <email>user884@mail.com</email>
+            <joinedAt>2022-03-23T14:11:00.874+02:00</joinedAt>
+        </user>
+        <user id="4">
+            <username>john</username>
+            <email>john@site.com</email>
+            <joinedAt>2022-03-23T14:11:00.874+02:00</joinedAt>
+        </user>
+        <user id="5">
+            <username>bob</username>
+            <email>bob@site.com</email>
+            <joinedAt>2022-03-23T14:11:00.874+02:00</joinedAt>
+        </user>
+    </users>
+</starTrek>
